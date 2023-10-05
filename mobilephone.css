@@ -1,0 +1,58 @@
+@media(max-width:517px){
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+}
+
+.headings{
+    font-size: 0.9rem;
+}
+#pic{
+    flex-direction: column;
+    align-items: center;
+}
+#pic img{
+    width: 150px;
+    align-items: center;
+    height: 120px;
+}
+#intro h2{
+    text-align: center;
+    padding: 10px;
+    font-size: 1.2rem;
+}
+.main-text h2{
+    font-size: 20px;
+    line-height: 1;
+    text-align: center;
+}
+#certifications{
+    height: auto;
+    font-size: auto;
+}
+.certifications-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.rows{
+    width: 45%;
+    margin: 10px;
+}
+.rows img{
+    width: 100%;
+    height: auto;
+}
+.box{
+    width: 250px;
+    margin: 15px;
+}
+.size{
+    font-family: sans-serif;
+    font-size: 10px;
+}
+.icon a{
+    margin: 30px 1px 30px 0;
+}
+}
